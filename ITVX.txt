@@ -1,3 +1,5 @@
+[Adblock Plus]
+! Title: ITV DNS Blocklist
 tom.itv.com
 cpt.itv.com
 ar.prd.content.itv.com
